@@ -1,6 +1,6 @@
 # repositorio-ejercicio-1
 ## Paso 4: Modificar el archivo README.md
-4.1 Otro
+### 4.1 Otro
 Soy un texto y las opciones son:
 
 Opción 1.
@@ -25,9 +25,10 @@ Soy una negrita cursiva.
 Soy otra negrita cursiva.
 
 ~~Blanca hace los mejores manuales del mundo ~~
-```
-Se añade el texto
 
-# Repositorio Ejercicio 1
+Se añade el texto
 ```
+# Repositorio Ejercicio 1
+
 Este repositorio contiene los pasos básicos para trabajar con Git y GitHub.
+```
